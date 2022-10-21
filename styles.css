@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: rgb(255, 0, 0);
+    font-size: 4rem;
+    text-align: center;
+}
+h3{
+    color: blue;
+    font-size: 1.8rem;
+    text-decoration: underline;
+}
+#menu{
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+    color: aqua;
+}
+button{
+    padding: 10px 20px;
+}
